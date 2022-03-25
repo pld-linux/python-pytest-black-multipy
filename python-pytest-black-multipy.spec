@@ -9,7 +9,7 @@ Summary:	Allow '--black' on older Pythons
 Summary(pl.UTF-8):	Dopuszczenie '--black' na starszych wersjach Pythona
 Name:		python-pytest-black-multipy
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-black-multipy/
